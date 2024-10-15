@@ -7,4 +7,16 @@ The options should be numbered from 1 – 9; although your team can use less tha
 
 # Wake Up
 
+# Eat Breakfest
+
 # Learn Python
+
+# Working on homework
+
+# Going on a run
+
+# Eat dinner 
+
+# Go to bed
+
+# Exit
