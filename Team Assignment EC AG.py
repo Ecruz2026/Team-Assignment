@@ -16,7 +16,7 @@ while True:
     w = input("Please enter your answer (0-7): ")
     
     if w == "1":
-        print("Getting out of bed")
+        print("Getting out of bed.")
     elif w == "2":
         print("Enjoy your breakfast!")
     elif w == "3":
@@ -31,6 +31,7 @@ while True:
         print("Time to rest. Good night!")
     elif w == "0":
         print("Exiting the program. Have a nice day!")
-
-
+        break
+    else:
+        print("Invalid option. Please enter a number between 0 and 7.")
 
