@@ -20,3 +20,8 @@ The options should be numbered from 1 – 9; although your team can use less tha
 # Go to bed
 
 # Exit
+
+
+# Adrian was working on his half, and I worked on mine in the visual studio code, and I added the main touches to ensure that everything ran smoothly.
+
+# Everything was working properly, and the final file is in place to view.
